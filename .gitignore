@@ -1,0 +1,6 @@
+css/.Rhistory
+.sass-cache/
+Gemfile
+Gemfile.lock
+.gitignore
+_sass/
