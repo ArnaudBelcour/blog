@@ -4,3 +4,4 @@ Gemfile
 Gemfile.lock
 .gitignore
 _sass/
+_site/
