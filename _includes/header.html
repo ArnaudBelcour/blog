@@ -1,9 +1,13 @@
 <header class="site-header">
-
   <div id="nav">
     <ul>
-        <li><a href="/">HOME</a></li>
-        <li><a href="/page/">PAGE</a></li>
+      <li>
+        <a href="{{ "/" | prepend: site.baseurl }}">Home</a>
+      </li>
+      <li>
+        <a href="{{ "/page/" | prepend: site.baseurl }}">Page</a>
+      </li>
     </ul>
+  </div>
 
 </header>

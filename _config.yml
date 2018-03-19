@@ -1,6 +1,7 @@
 title: Arnaud Belcour's blog
 
-url: "https://arnaudbelcour.github.io"
+url: "https://arnaudbelcour.github.io/"
+baseurl: ""
 
 github_username: ArnaudBelcour
 theme: jekyll-theme-slate
