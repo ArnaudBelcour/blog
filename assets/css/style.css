@@ -22,26 +22,26 @@
     background-color: #111;
 }
 
-.icon--github {
+.icon-bar {
     margin: 0 auto 0 auto;
   }
 
-  .icon--github ul {
+  .icon-bar ul {
     margin: 20px 0 0 0;
-    text-align: center;
+    text-align: left;
   }
 
-  .icon--github ul li {
+  .icon-bar ul li {
     display: inline;
   }
 
-  .icon--github ul li a {
+  .icon-bar ul li a {
     text-decoration: none;
   }
 
-  .icon--github ul li svg {
-    width: 40px;
-    height: 40px;
+  .icon-bar ul li svg {
+    width: 30px;
+    height: 30px;
   }
 
 @import "jekyll-theme-slate";
