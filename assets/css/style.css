@@ -22,11 +22,15 @@
     background-color: #111;
 }
 
-#header_wrap {
+#header_background {
   background-image: url("/blog/images/image1.jpg");
-  background-size:cover;
+  background-size: contain;
+  background-repeat: repeat;
   color: white;
   font-weight:200;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility:    hidden;
+  -ms-backface-visibility:     hidden;
 }
 
 .icon-bar {
