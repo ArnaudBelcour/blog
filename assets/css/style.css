@@ -28,9 +28,10 @@
   background-repeat: repeat;
   color: white;
   font-weight:200;
-  -webkit-backface-visibility: hidden;
-  -moz-backface-visibility:    hidden;
-  -ms-backface-visibility:     hidden;
+}
+
+.site-footer {
+  font-size: 14px;
 }
 
 .icon-bar {
