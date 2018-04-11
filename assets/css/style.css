@@ -1,4 +1,10 @@
-.site-header ul {
+#header_background {
+  background-color: #333;
+  color: white;
+  font-weight:200;
+}
+
+#header_background ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -6,11 +12,11 @@
     background-color: #333;
 }
 
-.site-header li {
+#header_background li {
     float: left;
 }
 
-.site-header li a {
+#header_background li a {
     display: block;
     color: white;
     text-align: center;
@@ -18,16 +24,8 @@
     text-decoration: none;
 }
 
-.site-header li a:hover {
+#header_background li a:hover {
     background-color: #111;
-}
-
-#header_background {
-  background-image: url("/blog/images/image1.jpg");
-  background-size: contain;
-  background-repeat: repeat;
-  color: white;
-  font-weight:200;
 }
 
 .site-footer {
