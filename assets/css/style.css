@@ -1,3 +1,8 @@
+html,body {
+  margin:0;
+  padding:0;
+}
+
 #header_background {
   background-color: #333;
   color: white;
@@ -5,27 +10,27 @@
 }
 
 #header_background ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
 }
 
 #header_background li {
-    float: left;
+  float: left;
 }
 
 #header_background li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
 }
 
 #header_background li a:hover {
-    background-color: #111;
+  background-color: #111;
 }
 
 .site-footer {
