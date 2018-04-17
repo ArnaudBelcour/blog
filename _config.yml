@@ -1,7 +1,9 @@
 title: Arnaud Belcour's blog
+name: Arnaud Belcour's blog
 
 url: "https://arnaudbelcour.github.io"
 baseurl: "/blog"
+exclude: [".gitignore"]
 
 github_username: ArnaudBelcour
 theme: jekyll-theme-slate

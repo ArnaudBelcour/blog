@@ -8,6 +8,14 @@ div.Home p {
   width: 75%;
 }
 
+img.homefront_pic {
+  width: 50%;
+  height: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #header_background {
   background-color: #333;
   color: white;
