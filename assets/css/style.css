@@ -1,9 +1,9 @@
-div.Publications ul {
+div ul {
   margin: auto;
   width: 90%;
 }
 
-div.Publications h2 {
+div h2 {
   text-decoration: underline;
   font-size: 1.5em;
   font-weight:normal;
