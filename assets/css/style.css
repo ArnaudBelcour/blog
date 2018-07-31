@@ -21,6 +21,20 @@ div.Home p {
   width: 75%;
 }
 
+div.leftnavbar {
+  height: 100%;
+  width: 160px;
+  border-left: 160px solid rgb(0, 0, 0);
+}
+
+div.leftnavbar a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 6px;
+  color: #818181;
+  display: block;
+}
+
 img.homefront_pic {
   width: 50%;
   height: 50%;
@@ -61,20 +75,6 @@ img.homefront_pic {
 
 .site-footer {
   font-size: 14px;
-}
-
-.page-content leftnavbar {
-  height: 100%;
-  width: 160px;
-  border-left: 160px solid rgb(0, 0, 0);
-}
-
-.page-content leftnavbar a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 6px;
-  color: #818181;
-  display: block;
 }
 
 .icon-bar {
