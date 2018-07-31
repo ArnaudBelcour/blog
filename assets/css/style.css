@@ -28,8 +28,12 @@ div.biocontainer {
 
 div.leftnavbar {
   height: 100%;
-  width: 160px;
+  width: 33%;
   float:left;
+}
+
+div.leftnavbar ul li {
+  display: inline;
 }
 
 div.leftnavbar a {
