@@ -63,6 +63,26 @@ img.homefront_pic {
   font-size: 14px;
 }
 
+.leftnav {
+  height: 100%; /* 100% Full-height */
+  width: 160px; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0; /* Stay at the top */
+  left: 0;
+  background-color: #111; /* Black*/
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 20px;
+}
+
+.leftnav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+}
+
 .icon-bar {
   border-top : 0.5px solid rgb(73, 71, 71);
   margin: 0 auto 0 auto;
