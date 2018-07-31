@@ -21,9 +21,15 @@ div.Home p {
   width: 75%;
 }
 
+div.biocontainer {
+  margin:auto;
+  overflow:hidden;
+}
+
 div.leftnavbar {
   height: 100%;
   width: 160px;
+  float:left;
 }
 
 div.leftnavbar a {
