@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <!-- HEAD -->
+  {% include head.html %}
+
+  <body>
+    <!-- HEADER -->
+    {% include header.html %}
+
+        <!-- MAIN CONTENT -->
+    <div class="biocontainer">
+      <div class="leftnavbar">	              
+        {% include bio_nav_bar.html %}            
+      </div>
+      <div class="mainbio">
+        <h1>{{page.title}}</h1>
+        {{ content }}
+      </div>
+    </div>
+
+  </body>
+
+  <!-- FOOTER  -->
+  {% include footer.html %}
+
+</html>

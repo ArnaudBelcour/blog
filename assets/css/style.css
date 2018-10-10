@@ -21,6 +21,32 @@ div.Home p {
   width: 75%;
 }
 
+div.biocontainer {
+  margin:auto;
+  overflow:hidden;
+}
+
+div.leftnavbar {
+  height: 100%;
+  width: 33%;
+  float:left;
+}
+
+div.leftnavbar ul li {
+  display: inline;
+}
+
+div.leftnavbar a {
+  text-decoration: none;
+  color: #818181;
+  display: block;
+}
+
+div.mainbio {
+  margin-left: 160px;
+  padding: 0px 10px;
+}
+
 img.homefront_pic {
   width: 50%;
   height: 50%;
