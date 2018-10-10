@@ -10,8 +10,6 @@ Using Galaxy on Windows with the Windows Subsystem for Linux.
 
 WSL is a compatibility layer developed by Microsoft and Canonical. It runs only on Windows 10 64-bits (you can see the installation process [here](https://msdn.microsoft.com/commandline/wsl/about)).
 
-This layer was very useful to run some tools developed on Linux. I began to think on how to use it to run Galaxy. So I just cloned the Galaxy repository and then use the command for the Linux system. Then the virtual environment and the needed packages installed without a problem.
-
 ## To Galaxy and beyond
 
 Clone the Galaxy repository and use the command for the Linux system installation (https://galaxyproject.org/admin/get-galaxy/#get-started).
