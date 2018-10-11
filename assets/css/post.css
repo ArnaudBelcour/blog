@@ -1,0 +1,56 @@
+/* CSS from: https://github.com/huyng/latex-simple-css/blob/master/custom.css*/
+
+h1, h2, h3, h4, h5, h6 {
+  margin: 2em 6em 2em 6em !important;
+  font-weight: bold;
+  font-size: 14px;
+  font-weight:300;    
+  line-height: 20px;
+  background:#fefefe;
+  color:#333;
+}
+
+h1 {
+  color: #000;
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.6em;
+}
+
+h4 {
+  font-size: 1.3em;
+}
+
+h5 {
+  font-size: 1em;
+}
+
+h6 {
+  color: #777777;
+  background-color: inherit;
+  font-size: 1em;
+}
+
+p {
+  line-height: 20px;
+  margin: 2em 10em 2em 10em;
+  font-weight:300; 
+  background:#fefefe;
+  color:#333;
+}
+
+a, a:visited {
+  color: #4183C4;
+  background-color: inherit;
+  text-decoration: none;
+}
+
+img {
+  max-width: 100%;
+}
