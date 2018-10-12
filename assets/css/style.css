@@ -38,8 +38,13 @@ div.leftnavbar ul li {
 
 div.leftnavbar a {
   text-decoration: none;
-  color: #818181;
+  color: #000000;
   display: block;
+}
+
+div.leftnavbar a:hover,
+div.leftnavbar a:active  {
+  color: rgb(202, 30, 7);
 }
 
 div.mainbio {
