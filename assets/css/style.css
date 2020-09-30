@@ -11,6 +11,13 @@ div h2 {
   width: 95%;
 }
 
+div h3 {
+  font-size: 1.5em;
+  font-weight:bold;
+  margin: auto;
+  width: 95%;
+}
+
 html,body {
   margin:0;
   padding:0;
