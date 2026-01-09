@@ -3,11 +3,6 @@ div ul {
   width: 90%;
 }
 
-div h1 {
-  white-space: pre;
-  margin: auto;
-}
-
 div h2 {
   text-decoration: underline;
   font-size: 1.5em;
@@ -29,12 +24,6 @@ html,body {
 }
 
 div.Home p {
-  white-space: pre;
-  margin: auto;
-  width: 75%;
-}
-
-div.Home h1 {
   white-space: pre;
   margin: auto;
   width: 75%;
