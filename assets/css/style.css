@@ -24,6 +24,7 @@ html,body {
 }
 
 div.Home p {
+  white-space: pre;
   margin: auto;
   width: 75%;
 }
@@ -68,6 +69,7 @@ div.cv_content p {
 }
 
 img.homefront_pic {
+  white-space: pre;
   max-width: 100%;
   max-height: 100%;
   display: block;
