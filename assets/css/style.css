@@ -20,11 +20,22 @@ div h3 {
 
 html,body {
   margin:0;
-  padding:0;
+  padding-top:0;
 }
 
 div.Home p {
   white-space: pre;
+  margin: auto;
+  width: 75%;
+}
+
+div.Home h1 {
+  white-space: pre;
+  margin: auto;
+  width: 85%;
+}
+
+div.Home ul {
   margin: auto;
   width: 75%;
 }
@@ -57,7 +68,7 @@ div.leftnavbar a:active  {
 
 div.mainbio {
   margin-left: 160px;
-  padding: 0px 10px;
+  padding-top: 0px 10px;
 }
 
 div.cv_content p {
@@ -86,7 +97,7 @@ img.homefront_pic {
 #header_background ul {
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  -top: 0;
   overflow: hidden;
   background-color: #333;
 }
@@ -99,7 +110,7 @@ img.homefront_pic {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding-top: 14px 16px;
   text-decoration: none;
 }
 
