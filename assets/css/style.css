@@ -20,7 +20,7 @@ div h3 {
 
 html,body {
   margin:0;
-  padding-top:0;
+  padding:0;
 }
 
 div.Home p {
@@ -68,7 +68,7 @@ div.leftnavbar a:active  {
 
 div.mainbio {
   margin-left: 160px;
-  padding-top: 0px 10px;
+  padding: 0px 10px;
 }
 
 div.cv_content p {
@@ -110,7 +110,7 @@ img.homefront_pic {
   display: block;
   color: white;
   text-align: center;
-  padding-top: 14px 16px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
